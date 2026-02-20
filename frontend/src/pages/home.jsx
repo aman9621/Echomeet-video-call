@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>Apna Video Call</h2>
+                    <h2>EchoMeet call</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>
@@ -54,7 +54,7 @@ function HomeComponent() {
             <div className="meetContainer">
                 <div className="leftPanel">
                     <div>
-                        <h2>Providing Quality Video Call Just Like Quality Education</h2>
+                        <h2>Where Every Call Feels Like a Classroom of Excellence</h2> <br></br>
 
                         <div style={{ display: 'flex', gap: "10px" }}>
 
