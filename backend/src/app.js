@@ -10,7 +10,8 @@ import cors from "cors";
 import dotenv from "dotenv";
 import userRoutes from "./routes/users.routes.js";
 
-dotenv.config();
+
+dotenv.config({ path: "../.env" });
 
 const app = express();
 const server = createServer(app);
