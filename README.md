@@ -136,19 +136,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here.
-
-* Home Page
-* Login Page
-* Dashboard
-* Meeting Room
-* Screen Sharing
-* Chat Window
-
----
-
 ## 💭 Why I Built This Project
 
 I wanted to build a project that helped me understand real-time applications. Most web applications work by sending requests and waiting for responses, but video meeting apps are different because everything needs to update instantly.
